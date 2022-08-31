@@ -23,3 +23,5 @@
   - gatsby build
 
   - npm run deploy
+
+## If git issues then run git init --> git remote origin <url> --> ...

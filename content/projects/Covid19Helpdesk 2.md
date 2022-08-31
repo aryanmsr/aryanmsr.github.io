@@ -9,7 +9,7 @@ tech:
   - NumPy
   - Matplotlib
 company: ''
-showInProjects: true 
+showInProjects: false
 ---
 
 Basic stock market analysis of three automotive companies: Tesla, GM & Ford.
