@@ -6,8 +6,8 @@ tech:
   - KNIME
   - H2O AI
   - Microsoft Excel
-company: ''
-showInProjects: false
+company: 'Bocconi'
+showInProjects: true 
 ---
 
 Built a binary classifier that predicts whether a small business will default on a loan or not based on various factors such as industry, state, size etc.

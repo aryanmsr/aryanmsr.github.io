@@ -6,6 +6,6 @@ external: 'https://bsibocconi.com/2021/05/05/tech-series-drone-project/'
 tech:
   - Python
   - NumPy
-company: ''
+company: 'BSI Bocconi'
 showInProjects: false
 ---

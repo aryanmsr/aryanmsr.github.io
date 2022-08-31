@@ -8,6 +8,6 @@ tech:
   - recommenderLab
   - ggplot2
   - tidyverse
-company: ''
+company: 'Columbia'
 showInProjects: false
 ---

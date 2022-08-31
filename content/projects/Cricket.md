@@ -7,7 +7,7 @@ tech:
   - Python
   - Snscrape
   - TextBlob
-company: ''
+company: 'Bocconi'
 showInProjects: false
 ---
 

@@ -7,6 +7,6 @@ tech:
   - Python
   - Sklearn
   - BeautifulSoup
-company: ''
+company: 'Columbia'
 showInProjects: false
 ---

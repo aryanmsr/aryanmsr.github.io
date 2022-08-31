@@ -1,5 +1,5 @@
 ---
-date: '2020-04-21'
+date: '2019-04-21'
 title: 'Vodafone TOBi Chatbot'
 github: 'https://github.com/aryanmsr/SMARTobi'
 tech:
@@ -7,7 +7,7 @@ tech:
   - Sklearn
   - Matplotlib
   - pyLDAvis
-company: ''
+company: 'Vodafone Italia'
 showInProjects: true
 ---
 
