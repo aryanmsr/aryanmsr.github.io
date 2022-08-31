@@ -9,4 +9,4 @@ company: 'Bocconi'
 showInProjects: true
 ---
 
-
+Implementation of a popular matching algorithm called the Deferred Acceptance Algorithm (Gale-Shapley Algorithm).

@@ -9,5 +9,4 @@ tech:
 company: 'Bocconi'
 showInProjects: true 
 ---
-
-Built a binary classifier that predicts whether a small business will default on a loan or not based on various factors such as industry, state, size etc.
+Binary classifier that predicts whether a small business will default on a loan or not based on various factors such as industry, state, size etc.
