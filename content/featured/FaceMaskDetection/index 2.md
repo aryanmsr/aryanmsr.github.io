@@ -1,17 +1,16 @@
 ---
 date: '1'
-title: 'Cricket Leagues Dataset '
-cover: 'face-mask.png'
-github: 'https://github.com/aryanmsr/professional_cricket_leagues_data'
-external: 'https://drive.google.com/file/d/12O0pSfLe5M7m73ix6uk5TLUgcQOVHulS/view'
+title: 'Regime Detection '
+cover: 'index_3.png'
+external: 'https://drive.google.com/file/d/1XmZJ_GG743_k4VV85Fdl-OaRBdFn5EWn/view?usp=sharing'
 tech:
   - Python
-  - Snscrape
-  - TextBlob
+  - Quant
+  - HmmLearn
 
 showInProjects: true
 ---
 
-The overall purpose of this project was to create a complete and clean dataset that would later be used to perform Econometric analysis on for my undergraduate [thesis](https://drive.google.com/file/d/12O0pSfLe5M7m73ix6uk5TLUgcQOVHulS/view).
+The goal of this project was to use macroeconomic data to identify, understand, and predict different market regimes. Regimes are characterized by varying statistical properties and are driven by the non-stationarity of the financial markets. This creates the need to effectively detect and categorize different market regimes so quantitative traders can optimize their strategy selection and improve their portfolio returns.
 
-I extracted Twitter data from 10 different cricket leagues' Twitter accounts using the Python [snscrape](https://github.com/JustAnotherArchivist/snscrape) library. I also performed some basic sentiment analysis using Textblob to obtain polarity and subjectivity scores from the relevant tweets.
+For this project, I researched and implemented a Hidden Markov model and created a module that automatically extracted 700+ macroeconomic indicators from OECD, FRED, & World Bank and identfied the present and future regimes, along with the drivers behind those regimes. 

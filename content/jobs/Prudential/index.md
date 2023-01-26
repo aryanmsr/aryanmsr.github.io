@@ -6,6 +6,7 @@ range: 'May 2022 - August 2022'
 url: 'https://www.prudential.com/'
 ---
 
-- Developed a custom Next Best Action (NBA) model based on LSTM neural networks to recommend optimal actions for Prudential advisors during client interactions, resulting in a 59% lift in conversion rate and 17% lift in AOI.
-- Analyzed and preprocessed +2M data points for exploratory data analysis, feature engineering, and subsequent model building using the Python data science stack (Pandas, NumPy, Keras, Scikit-learn, TensorFlow, statsmodels).
-- Collaborated with data scientists and senior product managers to define key metrics and measurement frameworks for the NBA model to ensure a consistent evaluation structure.
+- Created a Next Best Action (NBA) model applying LSTM networks to optimize client interactions by analyzing +2M data points.
+- Increased conversion rate of prospective leads by 59% and adjusted operating income (AOI) by 17%.
+- Leveraged the Python data science stack (Pandas, NumPy, TensorFlow) for model building and engineering of 30+ features.
+- Collaborated with senior business and technical stakeholders to identify user pain points and define key metrics for the model.

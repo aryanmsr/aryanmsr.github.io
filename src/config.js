@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Aryan Mishra | Data Scientist | Columbia University',
   siteDescription:
-    'Aryan Mishra is a graduate student at Columbia University who is passionate about technology and business',
+    'Aryan Mishra is a Data Scientist who is passionate about using data to deliver value.',
   siteKeywords:
     'Aryan Mishra, Aryan, Mishra, aryanmsr, data scientist, student, columbia',
   siteUrl: 'https://aryanmsr.github.io/',

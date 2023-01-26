@@ -6,6 +6,6 @@ range: 'July 2021 - September 2021'
 url: 'https://focusproject.es/'
 ---
 
-- Built a prototype high-school grade predictor feature based on past Portuguese student data.
-- Programmed several machine learning algorithms including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting on Python, achieving an R squared of ~85% and an average accuracy of ~93%.
-- Subsequently wrote a white paper that described the feature in detail and advocated for the use of algorithmic grade predictors to be implemented across educational institutions worldwide.
+- Led the design and implementation of a prototype grade prediction feature using a Random Forest model for an Ed-Tech start-up.
+- Forecasted academic performance with 95% accuracy to create prototype. 
+- Authored a white paper promoting prototype. 

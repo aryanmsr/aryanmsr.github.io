@@ -6,6 +6,6 @@ range: 'January 2022 - May 2022'
 url: 'https://www.ardian.com/'
 ---
 
-- Built machine learning models to forecast one-month-ahead electricity price spikes using ERCOT, weather, and macroeconomic data, resulting in an estimated $8M in cost savings for Ardian and its stakeholders.
-- Optimized existing models by performing dimensionality/feature reduction, resulting in a maximum 43% improvement in model performance over existing Ardian models.
-- Leveraged Power BI software to integrate backend model results with a front-end user interface dashboard, allowing stakeholders to review significant amounts of valuable information at a glance and increasing efficiency by 45%.
+- Forecasted one-month ahead electricity price spikes using XGBoost, potentially saving the business $8M on an annualized basis.
+- Reduced the noise in prior Ardian models with dimensionality reduction, resulting in a 43% improvement in performance.
+- Built a Power BI dashboard to visualize backend model results and allow stakeholders to make business-critical decisions.
