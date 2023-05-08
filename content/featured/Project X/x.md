@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Movie Recommendation System'
 cover: 'cover.jpeg'
 github: 'https://github.com/aryanmsr/Movie_Recommender'

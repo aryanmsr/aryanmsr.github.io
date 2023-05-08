@@ -8,7 +8,7 @@ tech:
   - Pandas
   - NumPy
   - Matplotlib
-company: ''
+company: 'Bocconi'
 showInProjects: false
 ---
 

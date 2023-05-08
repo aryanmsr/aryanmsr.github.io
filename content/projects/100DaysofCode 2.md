@@ -4,8 +4,6 @@ title: 'SBA Loan Approval Analysis'
 external: 'https://drive.google.com/file/d/1Ax5DROoZJbbwQZCLSLc-AWH-N__1TSaH/view?usp=sharing'
 tech:
   - KNIME
-  - H2O AI
-  - Microsoft Excel
 company: 'Bocconi'
 showInProjects: true 
 ---
