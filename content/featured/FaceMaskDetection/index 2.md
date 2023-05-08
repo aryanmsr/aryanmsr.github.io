@@ -3,9 +3,9 @@ date: '1'
 title: 'Regime Detection '
 cover: 'index_3.png'
 external: 'https://drive.google.com/file/d/1XmZJ_GG743_k4VV85Fdl-OaRBdFn5EWn/view?usp=sharing'
+github: 'https://github.com/aryanmsr/regime_detection'
 tech:
   - Python
-  - Quant
   - HmmLearn
 
 showInProjects: true
