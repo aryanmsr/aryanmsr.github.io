@@ -8,7 +8,7 @@
 
   - nvm install node (version 16)
 
-  - npm install -g yarn #I think this sometimes does not work.
+  - npm install -g yarn 
 
   - yarn
 

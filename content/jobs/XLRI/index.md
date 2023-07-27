@@ -1,6 +1,6 @@
 ---
 date: '2019-06-20'
-title: 'Merchant Data Analyst'
+title: 'Data Analyst Intern'
 company: 'NetOne IT'
 range: 'June 2019 - August 2019'
 url: 'https://www.netone.co.zm/'

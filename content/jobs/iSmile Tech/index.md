@@ -1,6 +1,6 @@
 ---
 date: '2020-02-25'
-title: 'Spring Data Analyst Intern'
+title: 'Data Analyst Intern'
 company: 'Kapsch TrafficCom AG'
 range: 'February 2020 - March 2020'
 url: 'https://www.kapsch.net/en/ktc'
