@@ -14,7 +14,7 @@
 
   - npm install -g gatsby-cli
 
-  - npm install
+  - # npm install  or yarn install
 
   - git add .
 
