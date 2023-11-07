@@ -7,5 +7,7 @@ tech:
   - Keras
   - Pandas
 company: 'Ardian/Columbia'
-showInProjects: false
+showInProjects: true
 ---
+
+Built Machine Learning models to forecast and manage electricity price spikes and subsequently optimize renewable energy operations.

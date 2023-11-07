@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'MoneyBall Watson'
 cover: 'demo1.png'
 github: 'https://github.com/aryanmsr/MoneyBall_Watson'

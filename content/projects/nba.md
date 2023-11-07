@@ -8,7 +8,6 @@ tech:
   - Keras
   - Pandas
 company: 'Prudential Financial'
-showInProjects: true
+showInProjects: false
 ---
-
-A sequence prediction task leveraging LSTM neural networks that predicts the next best action give a series of prior actions. 
+ 
