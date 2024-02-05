@@ -8,7 +8,7 @@ tech:
   - Matplotlib
   - pyLDAvis
 company: 'Vodafone Italia'
-showInProjects: true
+showInProjects: false
 ---
 
 NLP project for Vodafone Italy “TOBi” Hackathon 2019, where my team and I achieved second place for optimizing Vodafone's chatbot.
