@@ -20,7 +20,7 @@
 
   - git commit -am "changes"
 
-  - gatsby build
+  - gatsby build #causing problems just skip
 
   - npm run deploy
 

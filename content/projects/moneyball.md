@@ -8,5 +8,7 @@ tech:
   - Sklearn
   - BeautifulSoup
 company: 'Columbia'
-showInProjects: false
+showInProjects: false 
 ---
+
+A machine learning model that predicts the outcome of a basketball game using past statistical data. 
