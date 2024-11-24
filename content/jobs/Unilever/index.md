@@ -6,7 +6,7 @@ range: 'September 2022 - December 2022'
 url: 'https://www.unileverusa.com/'
 ---
 
-- Automated knowledge extraction from dense biomedical literature using a transformer-based NER model, resulting in an expected $300K reduction in annual running costs
-- Developed and deployed a custom fuzzy-matching model with Python that accelerated identification of 40K+ product variants.
-- Modularized legacy code and productionized preprocessing, training, and prediction endpoints using the FastAPI framework.
-- Continuously involved in deployment pipeline integration, pull requests, code reviews, and load/stress testing APIs.
+- Automated knowledge retrieval of genes associated with dermatological conditions (e.g., atopic dermatitis, xerosis) from dense biomedical literature using a fine-tuned BERT language model, significantly enhancing research efficiency by cutting average research time from months to days.
+- Built and deployed a fuzzy-matching model using Python that accelerated identification of 40K+ product variants from 200K+ e-commerce reviews.
+- Streamlined code and productionized preprocessing, training, and prediction endpoints through FastAPI. 
+- Played a key role in enhancing the deployment pipeline and load testing of APIs.

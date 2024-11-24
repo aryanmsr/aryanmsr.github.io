@@ -6,6 +6,6 @@ range: 'July 2021 - September 2021'
 url: 'https://focusproject.es/'
 ---
 
-- Led the design and implementation of a prototype grade prediction feature using a Random Forest model for an Ed-Tech start-up.
-- Forecasted academic performance with 95% accuracy to create prototype. 
-- Authored a white paper promoting prototype. 
+- Led a project to build a prototype grade prediction feature utilizing CART-based methods (Random Forests & Gradient Boosted Trees) on Python. 
+- Forecasted academic performance to create the prediction feature.
+- Authored a white paper promoting the prototype to educators worldwide.

@@ -3,7 +3,7 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - AWS
-  - Big Data Analytics 
+  - Generative AI
   - Machine Learning 
   - Python
   - R 

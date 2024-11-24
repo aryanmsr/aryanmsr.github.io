@@ -6,7 +6,7 @@
 
   - source ~/.nvm/nvm.sh
 
-  - nvm install node (version 16)
+  - nvm install node (version 16) 
 
   - npm install -g yarn 
 
@@ -25,3 +25,4 @@
   - npm run deploy
 
 ## If git issues then run git init --> git remote origin <url> --> ...
+## Use nvm use 16

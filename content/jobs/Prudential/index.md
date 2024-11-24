@@ -1,11 +1,12 @@
 ---
 date: '2023-02-06'
-title: 'Data Scientist'
+title: 'Lead Data Scientist'
 company: 'Prudential Financial'
 range: 'May 2022 - September 2022 / February 2023 - Present'
 url: 'https://www.prudential.com/'
 ---
-- Leveraging AI/ML to optimize the sales & distribution channel and maximize customer experience (CX).
-- Created a Next Best Action (NBA) model to optimize client interactions that increased prospective lead conversion rate by 59% and  adjusted operating income (AOI) by 17% using LSTM neural networks.
-- Leveraged the Python data science stack (Pandas, NumPy, TensorFlow) for model building and engineering of 30+ features.
-- Collaborated with senior business and technical stakeholders to identify user pain points and define key metrics for the model.
+- Serving as a strategic partner embedded within the Retirement Strategies business, building data science solutions from ideation to production for marketing, sales, and distribution initiatives.
+- Developing AI agents and orchestration tools using LLMs and advanced RAG techniques to continuously optimize sales processes and knowledge management/retrieval.
+- Leading cross-functional collaboration with data engineers, software engineers, and MLEs for model deployment and production.
+- Creating and enhancing a recommendation engine using Markov models on Clickstream data to analyze user behavior and generate actionable insights.
+- Implementing containerized application updates on AWS, ensuring efficient deployment and scalability across various projects.
