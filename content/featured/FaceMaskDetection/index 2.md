@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'WorkoutPlan: AI-Powered Fitness Insights'
+title: 'WorkoutPlan'
 cover: 'index_3.png'
 github: 'https://github.com/aryanmsr/WorkoutPlan'
 external: 'https://github.com/aryanmsr/WorkoutPlan'
