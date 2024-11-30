@@ -1,17 +1,19 @@
 ---
 date: '2'
-title: 'Regime Detection '
+title: 'WorkoutPlan: AI-Powered Fitness Insights'
 cover: 'index_3.png'
-external: 'https://drive.google.com/file/d/1XmZJ_GG743_k4VV85Fdl-OaRBdFn5EWn/view?usp=sharing'
+github: 'https://github.com/aryanmsr/WorkoutPlan'
+external: 'https://github.com/aryanmsr/WorkoutPlan'
 tech:
   - Python
-  - HmmLearn
-  - SciPy
-  - Pyfolio
+  - Flask
+  - Strava API
+  - Twilio
+  - Pydantic
 
 showInProjects: true
 ---
 
-The goal of this project was to use macroeconomic data to identify and predict different market regimes. Regimes are characterized by varying statistical properties and are driven by the non-stationarity of the financial markets, creating the need to effectively detect and categorize different market regimes to optimize portfolio returns.
+The goal of this project is to create a tool to analyze my workouts and provide personalized recommendations, coaching, and motivational advice. Powered by integrations with the Strava API and SMS notifications through Twilio, this app aims to enhance my fitness journey by providing actionable insights and inspiration after every workout.
 
-For this project, I researched and implemented a Hidden Markov model and created a module that automatically extracted 700+ macroeconomic indicators from OECD, FRED, & World Bank and identfied the present and future regimes, along with the drivers behind those regimes. 
+This project is a work in progress, and the ultimate goal is to create a comprehensive fitness assistant that empowers users to achieve their fitness goals efficiently.
