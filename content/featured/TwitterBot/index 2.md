@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Hash-Code Drone Delivery'
 cover: 'bot.png'
 github: 'https://github.com/aryanmsr/Drone_Delivery'

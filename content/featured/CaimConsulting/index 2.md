@@ -1,9 +1,9 @@
 ---
 date: '4'
-title: 'Diet Recommendendation Engine'
+title: 'MealPlan'
 cover: 'diet.png'
-github: 'https://github.com/aryanmsr/lifestyle_recommendation'
-external: 'https://github.com/aryanmsr/lifestyle_recommendation'
+github: 'https://github.com/aryanmsr/MealPlan'
+external: 'https://github.com/aryanmsr/MealPlan'
 tech:
   - Python
   - Docker
@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-The Diet Recommender is part of a broader Lifestyle Recommendation system I built (mainly for myself). As of now, it is a Python-based system designed to provide personalized diet recommendations. Utilizing a combination of nutritional science, user preferences and content-based filtering, this tool aims to assist users in planning their meals effectively to meet their dietary goals.
+MealPlan is part of a broader Lifestyle Recommendation system I built (mainly for myself). As of now, it is a Python-based system designed to provide personalized diet recommendations. Utilizing a combination of nutritional science, user preferences and content-based filtering, this tool aims to assist users in planning their meals effectively to meet their dietary goals.

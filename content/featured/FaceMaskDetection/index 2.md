@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'WorkoutPlan'
 cover: 'index_3.png'
 github: 'https://github.com/aryanmsr/WorkoutPlan'

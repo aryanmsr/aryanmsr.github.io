@@ -1,8 +1,8 @@
 ---
 date: '2024-02-01'
-title: 'Lifestyle Recommendendation Engine'
-github: 'https://github.com/aryanmsr/lifestyle_recommendation'
-external: 'https://github.com/aryanmsr/lifestyle_recommendation'
+title: 'MealPlan'
+github: 'https://github.com/aryanmsr/MealPlan'
+external: 'https://github.com/aryanmsr/MealPlan'
 tech:
   - Python
   - Pandas
