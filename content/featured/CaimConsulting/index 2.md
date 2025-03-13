@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'MealPlan'
 cover: 'diet.png'
 github: 'https://github.com/aryanmsr/MealPlan'
