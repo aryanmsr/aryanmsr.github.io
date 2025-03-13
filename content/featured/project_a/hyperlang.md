@@ -1,11 +1,12 @@
 ---
-date: '1'
+date: '4'
 title: 'HyperLang'
 cover: 'Hyperlang.png'
 github: 'https://github.com/aryanmsr/HyperLang'
 external: 'https://github.com/aryanmsr/HyperLang'
 tech:
   - Python
+  - Docker
   - FastAPI
 
 showInProjects: true

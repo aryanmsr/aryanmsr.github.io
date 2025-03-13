@@ -5,6 +5,6 @@ external: 'https://drive.google.com/file/d/1Ax5DROoZJbbwQZCLSLc-AWH-N__1TSaH/vie
 tech:
   - KNIME
 company: 'Bocconi'
-showInProjects: true 
+showInProjects: false
 ---
 Binary classifier that predicts whether a small business will default on a loan or not based on various factors such as industry, state, size etc.

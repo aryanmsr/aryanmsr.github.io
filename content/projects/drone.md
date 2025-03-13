@@ -7,5 +7,6 @@ tech:
   - Python
   - NumPy
 company: 'BSI Bocconi'
-showInProjects: false
+showInProjects: true
 ---
+Simulation of a drone delivery operation given a hypothetical fleet of drones, a list of customer orders, and availability of the individual products in warehouses.

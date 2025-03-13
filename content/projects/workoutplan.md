@@ -5,8 +5,8 @@ github: 'https://github.com/aryanmsr/WorkoutPlan'
 external: 'https://github.com/aryanmsr/WorkoutPlan'
 tech:
   - Python
-  - Flask
-  - Twilio
+  - Docker
+  - FastAPI
 company: 'Personal Project'
 showInProjects: false
 ---

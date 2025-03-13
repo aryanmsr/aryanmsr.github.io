@@ -6,10 +6,8 @@ github: 'https://github.com/aryanmsr/WorkoutPlan'
 external: 'https://github.com/aryanmsr/WorkoutPlan'
 tech:
   - Python
-  - Flask
-  - Strava API
-  - Twilio
-  - Pydantic
+  - Docker
+  - FastAPI
 
 showInProjects: true
 ---

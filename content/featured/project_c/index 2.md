@@ -6,6 +6,7 @@ github: 'https://github.com/aryanmsr/MealPlan'
 external: 'https://github.com/aryanmsr/MealPlan'
 tech:
   - Python
+  - React.Js 
   - Docker
   - FastAPI
 

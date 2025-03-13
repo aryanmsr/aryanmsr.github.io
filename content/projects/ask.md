@@ -10,4 +10,4 @@ tech:
 company: 'Ask2.ai/Columbia'
 showInProjects: true 
 ---
-A Hidden Markov model to detect current and future market regimes.
+A Hidden Markov model that detects current and future regimes to optimize trading strategies and improve portfolio returns.

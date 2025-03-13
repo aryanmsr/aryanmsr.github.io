@@ -7,6 +7,7 @@ tech:
   - Python
   - Pandas
   - Docker
+  - React.Js 
 company: 'Personal Project'
 showInProjects: false
 ---

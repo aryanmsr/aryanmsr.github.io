@@ -6,7 +6,6 @@ external: 'https://drive.google.com/file/d/17q0ugwIkAcHkTJC14JTL3yXDZtJKAJcc/vie
 tech:
   - Python
   - Scikit-learn
-  - Imbalanced-learn
   - Seaborn
 company: 'Focus Project Europe'
 showInProjects: true
