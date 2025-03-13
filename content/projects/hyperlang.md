@@ -6,5 +6,6 @@ external: 'https://github.com/aryanmsr/HyperLang
 tech:
   - Python
   - FastAPI
+company: 'Personal Project'
 showInProjects: false
 ---
