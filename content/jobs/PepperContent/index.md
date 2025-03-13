@@ -1,6 +1,6 @@
 ---
 date: '2021-07-07'
-title: 'Product Data Science Intern'
+title: 'Data Science Intern - Product'
 company: 'Focus Project Europe'
 range: 'July 2021 - September 2021'
 url: 'https://focusproject.es/'
