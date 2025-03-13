@@ -9,5 +9,6 @@ tech:
   - ggplot2
   - tidyverse
 company: 'Columbia'
-showInProjects: false
+showInProjects: true
 ---
+Application of user based collaborative filtering for streaming recommendations.

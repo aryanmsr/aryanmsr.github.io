@@ -9,7 +9,7 @@ tech:
   - Imbalanced-learn
   - Seaborn
 company: 'Focus Project Europe'
-showInProjects: false
+showInProjects: true
 ---
 
 Prototype ML-based high school score-predicting feature using past Portuguese student data.

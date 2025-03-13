@@ -8,8 +8,9 @@ tech:
   - Snscrape
   - TextBlob
 company: 'Bocconi'
-showInProjects: false
+showInProjects: true
 ---
 
+Preprocessing code for my undergraduate thesis - using NLP to analyze of the impact of social media marketing on user engagement for professional cricket leagues.
 
 

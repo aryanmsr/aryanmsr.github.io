@@ -2,12 +2,12 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - AWS
-  - Generative AI
-  - Machine Learning 
   - Python
   - R 
-  - SQL(MySQL,Postgres,Oracle)
+  - SQL
+  - Machine Learning 
+  - Generative AI
+  - AWS
 ---
 
 I come from a very multicultural background that spans Asia, Africa, Europe, and North America. Specifically, I grew up and lived across Nepal, India, Mauritius, Mozambique, Zambia, and Italy before settling in New York City, where I work as a Data Scientist for a Fortune 100 company.

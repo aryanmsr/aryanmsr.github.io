@@ -8,6 +8,6 @@ tech:
   - SciPy
   - Pyfolio
 company: 'Ask2.ai/Columbia'
-showInProjects: false 
+showInProjects: true 
 ---
-
+A Hidden Markov model to detect current and future market regimes.
