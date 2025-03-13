@@ -2,8 +2,8 @@
 date: '1'
 title: 'HyperLang'
 cover: 'Hyperlang.png'
-github: 'https://github.com/aryanmsr/HyperLang
-external: 'https://github.com/aryanmsr/HyperLang
+github: 'https://github.com/aryanmsr/HyperLang'
+external: 'https://github.com/aryanmsr/HyperLang'
 tech:
   - Python
   - FastAPI
