@@ -216,7 +216,7 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Built</Heading>
+      <Heading ref={revealTitle}>Some Personal Stuff I&apos;ve Built</Heading>
 
       <div>
         {featuredProjects &&
@@ -275,7 +275,27 @@ const Featured = ({ data }) => {
                   href={external ? external : github ? github : '#'}
                   target="_blank"
                   rel="nofollow noopener noreferrer">
-                  <StyledFeaturedImg fluid={cover.childImageSharp.fluid} alt={title} />
+                  {cover?.childImageSharp?.fluid ? (
+            <StyledFeaturedImg fluid={cover.childImageSharp.fluid} alt={title} />
+          ) : (
+            <div
+              style={{
+                width: "100%",
+                height: "100%",
+                borderRadius: "var(--border-radius)",
+                background: "rgba(100, 255, 218, 0.08)",
+                display: "flex",
+                alignItems: "center",
+                justifyContent: "center",
+                fontSize: "12px",
+                color: "rgba(255, 255, 255, 0.7)",
+                textAlign: "center",
+                padding: "16px",
+              }}
+            >
+              Missing cover image
+            </div>
+          )}
                 </StyledImgContainer>
               </StyledProject>
             );

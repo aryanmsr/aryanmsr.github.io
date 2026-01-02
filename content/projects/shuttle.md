@@ -1,5 +1,5 @@
 ---
-date: '2026-01-01'
+date: '2026-01-02'
 title: 'Shuttle Optimizer'
 github: 'https://github.com/aryanmsr/wedding-shuttle-optimizer'
 external: 'https://wedding-shuttle-optimizer-ui.onrender.com/'

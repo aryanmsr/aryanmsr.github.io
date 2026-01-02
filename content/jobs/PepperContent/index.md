@@ -6,6 +6,5 @@ range: 'July 2021 - September 2021'
 url: 'https://focusproject.es/'
 ---
 
-- Led a project to build a prototype grade prediction feature utilizing CART-based methods (Random Forests & Gradient Boosted Trees) on Python. 
-- Forecasted academic performance to create the prediction feature.
-- Authored a white paper promoting the prototype to educators worldwide.
+- Led development of a grade forecasting prototype in Python using advanced statistical models (hierarchical regression, additive latent-effect modeling).
+- Forecasted student performance trends and published findings in a white paper for global educators.

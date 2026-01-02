@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Aryan Mishra | Data Scientist | Columbia University',
+  siteTitle: 'Aryan Mishra',
   siteDescription:
-    'Aryan Mishra is a Data Scientist who is passionate about using data to deliver value.',
+    'Aryan Mishra is a Forward Deployed Engineer specializing in data-driven solutions for complex problems.',
   siteKeywords:
-    'Aryan Mishra, Aryan, Mishra, aryanmsr, data scientist, student, columbia',
+    'Aryan Mishra, Aryan, Mishra, aryanmsr, data scientist, forward deployed engineer, fde, columbia',
   siteUrl: 'https://aryanmsr.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
