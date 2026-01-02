@@ -2,7 +2,7 @@
 date: '2023-02-06'
 title: 'Lead Data Scientist'
 company: 'Prudential Financial'
-range: 'May 2022 - September 2022 / February 2023 - Present'
+range: 'May 2022 - September 2022 / February 2023 - June 2025'
 url: 'https://www.prudential.com/'
 ---
 - Serving as a strategic partner embedded within the Retirement Strategies business, building data science solutions from ideation to production for marketing, sales, and distribution initiatives.
